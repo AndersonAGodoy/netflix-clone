@@ -29,4 +29,7 @@ após instalar todas as depedências, insira o comando `npm start` para que o pr
 
 OBRIGADO POR VISITAR MEU REPOSITÓRIO.
 
-<p align="center"> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](license.md) para mais detalhes.</p>
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](license.md) para mais detalhes.
+
