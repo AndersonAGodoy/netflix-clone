@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" width="450" />
+  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="450" />
 </p>
 
 <p align="center">
