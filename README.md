@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="450" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" width="450" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Projeto criado para fins educativos, realizado durante uma live do canal do [BON
 ## :books: TECNOLOGIAS E API's UTILIZADAS
 
 - [React](https://pt-br.reactjs.org/)
-- [TMDB - THE MOVIE DATA BASE](https://developers.themoviedb.org/3)
+- [TMDB - THE MOVIE DATABASE](https://developers.themoviedb.org/3)
 
 ## :pushpin: COMO ABRIR O PROJETO
 
